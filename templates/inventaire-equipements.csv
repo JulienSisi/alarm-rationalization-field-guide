@@ -1,0 +1,3 @@
+id,equipement,systeme,zone,fabricant_modele,fonction,interface_supervision,remontee_alarmes,documentation_disponible,programme_automate_disponible,contact_maintenance,derniere_verification,remarque
+EQ-001,Groupe froid chambre froide 2,Froid,Froid,(à compléter),Production de froid chambre 2,Modbus TCP,Partielle : défaut général uniquement,Notice constructeur,Non,Frigoriste sous contrat,2026-03-10,Exemple fictif. Les alarmes détaillées restent sur l'écran local
+EQ-002,Chaudière vapeur,Utilités,Chaufferie,(à compléter),Production de vapeur process,Contacts secs (3),"Partielle : déclenchement, pression basse, défaut brûleur",Notice + schéma électrique,Non (packagé),Chauffagiste,2026-03-10,Exemple fictif

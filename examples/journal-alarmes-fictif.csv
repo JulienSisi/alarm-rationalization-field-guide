@@ -1,0 +1,1337 @@
+horodatage_activation,horodatage_retour,tag,description,priorite,zone
+2026-03-02 01:56:32,2026-03-02 01:56:46,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 01:56:47,2026-03-02 01:57:05,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 01:57:05,2026-03-02 01:57:15,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 01:57:13,2026-03-02 01:57:25,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 02:07:06,2026-03-02 02:07:27,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 02:07:18,2026-03-02 02:07:40,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 02:07:37,2026-03-02 02:07:57,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 02:07:48,2026-03-02 02:08:00,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 02:30:59,2026-03-02 02:31:15,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 02:31:13,2026-03-02 02:31:27,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 02:31:27,2026-03-02 02:31:36,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 02:41:59,2026-03-02 03:53:07,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-02 03:11:50,2026-03-02 03:11:54,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:12:04,2026-03-02 03:12:23,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:12:16,2026-03-02 03:12:26,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:12:27,2026-03-02 03:12:38,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:12:41,,TK03_LSH,Tank lait cru 3 - niveau très haut,Haute,Réception
+2026-03-02 03:12:46,2026-03-02 03:13:05,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:12:57,2026-03-02 03:13:03,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:13:13,2026-03-02 03:13:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:13:21,2026-03-02 03:13:39,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:18:48,2026-03-02 03:19:11,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:19:07,2026-03-02 03:19:12,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:19:22,2026-03-02 03:19:30,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:19:34,2026-03-02 03:19:41,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:42:37,2026-03-02 03:42:50,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:42:52,2026-03-02 03:43:09,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:43:04,2026-03-02 03:43:28,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:43:17,2026-03-02 03:43:25,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:43:28,2026-03-02 03:43:35,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:43:50,2026-03-02 03:44:12,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 03:44:04,2026-03-02 03:44:24,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 04:10:43,2026-03-02 04:10:51,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 04:10:53,2026-03-02 04:11:10,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 04:11:06,2026-03-02 04:11:16,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 04:11:24,2026-03-02 04:11:29,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 04:11:32,2026-03-02 04:11:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 04:50:56,2026-03-02 04:53:11,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-02 04:51:07,2026-03-02 04:51:49,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-02 04:53:06,2026-03-02 04:53:09,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-02 04:53:56,2026-03-02 04:53:57,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-02 04:54:53,2026-03-02 04:57:04,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-02 05:02:31,2026-03-02 06:37:40,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-02 05:17:18,2026-03-02 05:20:06,TK01_LSH,Tank lait cru 1 - niveau très haut,Haute,Réception
+2026-03-02 05:42:48,2026-03-02 05:46:02,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-02 05:51:23,2026-03-02 05:52:25,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 06:03:04,2026-03-02 06:03:12,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 06:03:28,2026-03-02 06:03:39,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 06:03:42,2026-03-02 06:03:49,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 06:03:52,2026-03-02 06:04:02,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 06:04:13,2026-03-02 06:04:21,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 06:04:32,2026-03-02 06:04:40,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 06:06:06,2026-03-02 06:07:51,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 06:15:31,2026-03-02 06:19:21,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-02 06:16:21,2026-03-02 06:21:55,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 06:22:08,2026-03-02 06:24:04,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 06:23:41,2026-03-02 06:37:45,REC_PMP01_DEF,Réception - défaut pompe de dépotage,Moyenne,Réception
+2026-03-02 06:31:53,2026-03-02 06:44:59,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 06:39:18,2026-03-02 06:39:26,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 06:39:28,2026-03-02 06:39:35,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 06:39:48,2026-03-02 06:40:00,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 06:40:03,2026-03-02 06:40:08,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 06:47:48,2026-03-02 06:50:46,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 06:54:11,2026-03-02 06:55:33,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 06:54:55,2026-03-02 07:08:43,FR01_TT01_H,Chambre froide 1 - température haute,Haute,Froid
+2026-03-02 06:55:07,2026-03-02 06:57:33,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 07:25:07,2026-03-02 07:35:58,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 07:49:34,2026-03-02 07:56:06,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-02 07:50:30,2026-03-02 07:56:17,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 07:53:38,2026-03-02 07:56:29,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 08:05:29,2026-03-02 08:14:02,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 08:07:03,2026-03-02 08:14:02,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 08:13:32,2026-03-02 08:14:00,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-02 08:19:05,2026-03-02 08:19:12,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 08:19:17,2026-03-02 08:19:22,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 08:19:35,2026-03-02 08:19:46,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 08:19:48,2026-03-02 08:19:57,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 08:20:07,2026-03-02 08:20:18,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 08:20:08,2026-03-02 08:20:11,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 08:20:31,2026-03-02 08:20:34,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 08:20:47,2026-03-02 08:20:50,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 08:24:47,2026-03-02 08:26:24,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 08:25:22,2026-03-02 08:34:56,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 08:25:42,2026-03-02 08:37:01,STEP_LT01_H,STEP - niveau bassin tampon haut,Moyenne,STEP
+2026-03-02 08:38:28,2026-03-02 08:50:59,FR01_TT01_H,Chambre froide 1 - température haute,Haute,Froid
+2026-03-02 08:42:57,2026-03-02 08:57:41,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 08:43:39,2026-03-02 08:46:38,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-02 08:54:48,2026-03-02 08:56:26,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-02 09:02:29,2026-03-02 09:06:52,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-02 09:10:01,2026-03-02 09:21:54,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 09:22:08,2026-03-02 09:35:23,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 09:22:51,2026-03-02 09:31:26,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 09:27:22,2026-03-02 09:33:57,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 09:35:30,2026-03-02 09:39:28,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 09:43:45,2026-03-02 09:45:10,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 09:48:32,2026-03-02 09:51:48,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 09:51:17,2026-03-02 09:56:00,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-02 09:58:36,2026-03-02 10:00:00,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-02 10:05:52,2026-03-02 10:07:15,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 10:05:57,2026-03-02 10:12:32,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 10:07:08,2026-03-02 10:17:44,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 10:17:47,2026-03-02 10:24:10,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 10:18:12,2026-03-02 10:30:26,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 10:29:14,2026-03-02 10:56:50,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-02 10:34:06,2026-03-02 10:45:59,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 10:39:26,2026-03-02 11:01:14,STEP_LT01_H,STEP - niveau bassin tampon haut,Moyenne,STEP
+2026-03-02 10:39:47,2026-03-02 10:39:57,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 10:39:59,2026-03-02 10:40:11,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 10:40:17,2026-03-02 10:40:22,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 10:40:37,2026-03-02 10:40:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 10:40:57,2026-03-02 10:41:08,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 10:41:09,2026-03-02 10:41:22,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 10:41:18,2026-03-02 10:41:32,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 10:41:22,2026-03-02 10:45:22,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 10:41:40,2026-03-02 10:41:45,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 10:41:58,2026-03-02 10:42:19,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 10:51:41,2026-03-02 11:00:56,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-02 11:18:45,2026-03-02 11:20:34,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 11:33:22,2026-03-02 11:37:13,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 11:39:37,2026-03-02 11:49:24,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 11:51:15,2026-03-02 11:52:05,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-02 12:06:04,2026-03-02 12:11:36,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 12:06:56,2026-03-02 12:15:51,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 12:31:11,2026-03-02 12:34:00,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 12:33:20,2026-03-02 12:33:33,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 12:33:33,2026-03-02 12:33:53,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 12:33:42,2026-03-02 12:33:53,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 12:33:54,2026-03-02 12:34:19,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 12:34:03,2026-03-02 12:34:09,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 12:34:17,2026-03-02 12:34:23,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 12:34:27,2026-03-02 12:34:44,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 12:34:44,2026-03-02 12:34:53,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 12:35:09,2026-03-02 12:51:27,FR01_TT01_H,Chambre froide 1 - température haute,Haute,Froid
+2026-03-02 12:46:43,2026-03-02 12:57:53,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 12:49:12,2026-03-02 12:52:45,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 12:56:36,2026-03-02 13:03:45,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 13:09:23,2026-03-02 13:31:12,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-02 13:14:16,2026-03-02 13:17:04,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-02 13:24:58,2026-03-02 13:26:13,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-02 13:25:12,2026-03-02 13:29:28,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-02 13:25:59,2026-03-02 13:26:01,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-02 13:26:10,2026-03-02 13:32:22,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-02 13:27:22,2026-03-02 13:32:58,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-02 13:27:56,2026-03-02 13:27:59,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-02 13:29:24,2026-03-02 13:42:21,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 13:36:52,2026-03-02 13:37:52,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 14:01:00,2026-03-02 14:11:55,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-02 14:12:16,2026-03-02 14:15:15,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 14:26:34,2026-03-02 14:38:46,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 14:28:20,2026-03-02 14:34:01,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 14:37:15,2026-03-02 14:42:07,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 14:37:52,2026-03-02 14:43:28,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 14:46:27,2026-03-02 15:01:55,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-02 15:06:56,2026-03-02 15:19:19,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 15:21:43,2026-03-02 15:27:22,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 15:29:19,2026-03-02 15:37:30,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-02 15:40:01,2026-03-02 15:53:04,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-02 15:43:03,2026-03-02 15:49:43,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 15:46:12,2026-03-02 15:49:38,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-02 16:09:07,2026-03-02 16:13:55,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 16:11:12,2026-03-02 16:25:41,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 16:21:26,2026-03-02 16:29:26,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 16:22:38,2026-03-02 16:37:26,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 16:26:37,2026-03-02 16:32:17,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-02 16:27:45,2026-03-02 16:38:43,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 16:41:19,2026-03-02 16:48:05,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 16:55:57,2026-03-02 17:10:30,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-02 16:57:25,2026-03-02 17:06:14,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 16:58:16,2026-03-02 17:04:25,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 17:04:22,2026-03-02 17:07:25,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 17:11:52,2026-03-02 17:18:52,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 17:16:40,2026-03-02 17:30:35,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 17:35:44,2026-03-02 17:42:17,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 17:42:29,2026-03-02 17:53:55,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 17:45:34,2026-03-02 17:49:17,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 18:13:41,2026-03-02 18:23:46,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 18:19:44,2026-03-02 18:28:48,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 18:55:23,2026-03-02 19:00:05,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 19:19:25,2026-03-02 19:26:51,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 19:25:48,2026-03-02 19:33:12,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 19:30:29,2026-03-02 19:39:55,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-02 19:54:41,2026-03-02 19:58:56,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 20:08:18,2026-03-02 21:58:39,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-02 20:20:21,2026-03-02 20:20:31,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 20:20:40,2026-03-02 20:20:47,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 20:20:52,2026-03-02 20:21:00,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 20:28:59,2026-03-02 20:29:03,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 20:29:15,2026-03-02 20:29:26,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 20:29:39,2026-03-02 20:29:43,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 20:30:01,2026-03-02 20:30:08,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 20:30:16,2026-03-02 20:30:28,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 20:30:36,2026-03-02 20:30:43,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-02 21:01:09,2026-03-02 21:06:45,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-02 21:12:04,2026-03-02 21:12:26,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 21:12:22,2026-03-02 21:12:44,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 21:12:38,2026-03-02 21:12:57,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 21:49:47,2026-03-02 21:49:52,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 21:49:59,2026-03-02 21:50:13,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 21:50:18,2026-03-02 21:50:27,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 21:50:28,2026-03-02 21:50:51,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 21:50:50,2026-03-02 21:51:10,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 21:51:02,2026-03-02 21:51:11,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 21:51:21,2026-03-02 21:51:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 21:51:38,2026-03-02 21:52:02,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 21:52:00,2026-03-02 21:52:15,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-02 22:20:42,2026-03-02 22:21:38,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-02 22:20:42,2026-03-02 22:20:45,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-02 22:22:20,2026-03-02 22:23:55,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-02 22:22:57,2026-03-02 22:24:47,NEP_TT03_L,NEP - température départ basse,Moyenne,NEP
+2026-03-02 22:23:16,2026-03-02 22:24:26,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-02 22:23:37,2026-03-02 22:23:38,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-02 22:23:56,2026-03-02 22:23:58,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-02 22:24:17,2026-03-02 22:24:18,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-03 00:37:02,2026-03-03 00:37:10,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 00:37:14,2026-03-03 00:37:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 00:37:34,2026-03-03 00:37:42,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 00:37:45,2026-03-03 00:38:05,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 00:38:02,2026-03-03 00:38:21,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 03:22:22,2026-03-03 03:22:32,SUP_COM_PLC05,Supervision - perte communication automate 5,Haute,Supervision
+2026-03-03 04:05:50,2026-03-03 04:08:39,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-03 05:06:06,2026-03-03 05:11:54,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-03 05:06:24,2026-03-03 05:06:59,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-03 05:06:44,2026-03-03 05:06:48,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-03 05:06:54,2026-03-03 05:08:29,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-03 05:08:13,2026-03-03 05:08:16,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-03 05:08:40,2026-03-03 05:08:43,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-03 05:41:37,2026-03-03 05:47:11,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 05:47:48,2026-03-03 06:00:26,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 06:02:21,2026-03-03 06:12:09,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 06:08:58,2026-03-03 06:12:33,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 06:53:51,2026-03-03 06:54:55,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 06:58:11,2026-03-03 06:58:29,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-03 07:05:46,2026-03-03 07:11:48,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 07:29:28,2026-03-03 07:31:58,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 07:30:56,2026-03-03 07:40:27,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 07:32:44,2026-03-03 07:38:13,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 07:35:11,2026-03-03 07:48:46,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 07:39:42,2026-03-03 07:39:48,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 07:40:01,2026-03-03 07:40:11,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 07:40:16,2026-03-03 07:40:24,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 07:40:29,2026-03-03 07:40:34,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 07:40:51,2026-03-03 07:40:55,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 07:41:01,2026-03-03 07:41:13,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 07:44:41,2026-03-03 07:47:12,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-03 07:46:18,2026-03-03 07:46:43,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 07:46:36,2026-03-03 07:47:01,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 07:46:50,2026-03-03 07:47:10,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 07:56:38,2026-03-03 08:01:10,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-03 07:59:52,2026-03-03 08:03:25,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 08:02:04,2026-03-03 08:14:59,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 08:16:24,2026-03-03 08:17:14,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-03 08:28:08,2026-03-03 08:31:31,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 08:34:02,2026-03-03 08:34:06,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 08:34:15,2026-03-03 08:34:20,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 08:34:23,2026-03-03 08:34:33,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 08:34:36,2026-03-03 08:34:55,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 08:34:46,2026-03-03 08:35:09,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 08:34:55,2026-03-03 08:35:00,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 08:50:09,2026-03-03 08:56:41,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 09:20:34,2026-03-03 09:21:54,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 09:25:00,2026-03-03 09:25:07,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 09:25:14,2026-03-03 09:25:25,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 09:25:26,2026-03-03 09:25:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 09:25:41,2026-03-03 09:25:47,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 09:25:55,2026-03-03 09:26:17,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 09:26:09,2026-03-03 09:26:18,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 09:26:26,2026-03-03 09:26:48,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 09:26:44,2026-03-03 09:26:57,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 09:27:06,2026-03-03 09:27:27,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 09:28:14,2026-03-03 09:56:09,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-03 09:38:06,2026-03-03 09:43:37,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 09:43:40,2026-03-03 09:43:45,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 09:44:05,2026-03-03 09:44:13,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 09:44:17,2026-03-03 09:44:29,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 09:44:31,2026-03-03 09:44:42,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 09:44:55,2026-03-03 09:44:59,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 09:46:18,2026-03-03 09:50:04,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-03 09:54:17,2026-03-03 10:01:28,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 09:55:03,2026-03-03 10:01:12,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 09:55:24,2026-03-03 10:04:21,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-03 09:59:14,2026-03-03 10:10:30,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 10:00:37,2026-03-03 10:01:02,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 10:00:52,2026-03-03 10:01:10,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 10:01:09,2026-03-03 10:01:21,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 10:01:25,2026-03-03 10:01:33,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 10:01:41,2026-03-03 10:02:02,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 10:01:56,2026-03-03 10:02:17,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 10:02:05,2026-03-03 10:02:18,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 10:02:20,2026-03-03 10:02:44,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 10:02:33,2026-03-03 10:13:37,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 10:20:31,2026-03-03 10:35:19,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 10:23:17,2026-03-03 10:29:04,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 10:33:47,2026-03-03 10:40:28,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 10:42:25,2026-03-03 10:46:15,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-03 10:45:13,2026-03-03 10:52:07,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-03 10:46:57,2026-03-03 10:51:38,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-03 11:00:31,2026-03-03 11:04:02,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 11:03:52,2026-03-03 11:04:06,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 11:04:07,2026-03-03 11:04:15,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 11:04:20,2026-03-03 11:04:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 11:04:37,2026-03-03 11:04:45,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 11:04:49,2026-03-03 11:05:00,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 11:07:27,2026-03-03 11:07:33,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 11:07:39,2026-03-03 11:07:50,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 11:08:04,2026-03-03 11:08:16,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 11:08:19,2026-03-03 11:08:30,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 11:08:41,2026-03-03 11:08:47,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 11:11:34,2026-03-03 11:12:07,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 11:31:20,2026-03-03 11:32:58,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 11:34:05,2026-03-03 11:38:11,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 11:59:48,2026-03-03 12:02:07,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-03 12:30:20,2026-03-03 12:39:20,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-03 12:43:37,2026-03-03 12:54:16,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 12:46:01,2026-03-03 12:52:46,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 12:50:20,2026-03-03 12:52:22,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 12:52:41,2026-03-03 12:55:15,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 12:58:06,2026-03-03 12:58:21,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 12:58:18,2026-03-03 12:58:38,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 12:58:28,2026-03-03 12:58:44,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 12:58:43,2026-03-03 12:58:51,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 12:59:04,2026-03-03 12:59:16,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 12:59:26,2026-03-03 12:59:47,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 12:59:36,2026-03-03 12:59:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 12:59:46,2026-03-03 13:00:00,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 12:59:55,2026-03-03 13:00:16,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 13:00:46,2026-03-03 13:07:37,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 13:09:55,2026-03-03 13:12:50,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 13:13:14,2026-03-03 13:24:05,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-03 13:14:10,2026-03-03 13:17:56,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 13:23:50,2026-03-03 13:29:33,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 13:30:37,2026-03-03 13:30:55,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-03 13:30:45,2026-03-03 13:34:37,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-03 13:31:22,2026-03-03 13:31:25,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-03 13:32:04,2026-03-03 13:34:03,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-03 13:33:36,2026-03-03 13:33:38,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-03 13:42:07,2026-03-03 13:45:53,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 13:54:37,2026-03-03 13:54:41,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 13:54:48,2026-03-03 13:54:53,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 13:55:07,2026-03-03 13:55:10,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 13:55:27,2026-03-03 13:55:31,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 13:55:39,2026-03-03 13:55:49,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 13:55:55,2026-03-03 13:55:59,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 14:04:23,2026-03-03 14:04:37,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 14:04:39,2026-03-03 14:05:02,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 14:04:53,2026-03-03 14:05:11,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 14:05:07,2026-03-03 14:05:18,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 14:05:21,2026-03-03 14:05:45,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 14:05:32,2026-03-03 14:05:47,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 14:07:24,2026-03-03 14:07:36,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 14:07:46,2026-03-03 14:07:55,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 14:08:00,2026-03-03 14:08:03,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 14:08:17,2026-03-03 14:08:25,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 14:08:40,2026-03-03 14:08:46,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 14:08:53,2026-03-03 14:08:58,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 14:09:23,2026-03-03 14:17:00,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 14:13:13,2026-03-03 14:13:19,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 14:13:23,2026-03-03 14:13:39,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 14:13:33,2026-03-03 14:13:38,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 14:13:50,2026-03-03 14:14:05,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 14:14:10,2026-03-03 14:14:27,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-03 14:19:46,2026-03-03 14:26:58,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 14:59:35,2026-03-03 15:10:08,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 15:26:20,2026-03-03 15:39:51,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 15:26:59,2026-03-03 16:46:49,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-03 15:28:42,2026-03-03 15:33:52,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-03 15:45:58,2026-03-03 15:47:25,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 15:47:33,2026-03-03 15:58:57,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 16:09:51,2026-03-03 16:10:15,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-03 16:17:29,2026-03-03 16:25:00,FR01_TT01_H,Chambre froide 1 - température haute,Haute,Froid
+2026-03-03 16:43:40,2026-03-03 16:57:03,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 16:51:58,2026-03-03 17:06:33,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 16:54:39,2026-03-03 16:57:34,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 17:10:29,2026-03-03 17:15:45,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 17:20:19,2026-03-03 17:25:39,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-03 17:24:11,2026-03-03 17:30:21,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 17:31:02,2026-03-03 17:33:27,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 17:32:44,2026-03-03 17:35:41,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-03 18:05:03,2026-03-03 18:14:07,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 18:16:14,2026-03-03 18:16:22,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 18:16:28,2026-03-03 18:16:37,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 18:16:47,2026-03-03 18:16:55,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 18:17:10,2026-03-03 18:17:15,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 18:17:31,2026-03-03 18:17:36,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 18:17:43,2026-03-03 18:17:54,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-03 18:46:45,2026-03-03 19:00:46,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 18:51:06,2026-03-03 18:57:04,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 18:56:28,2026-03-03 19:07:54,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 19:17:57,2026-03-03 19:30:38,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 19:53:48,2026-03-03 20:00:19,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 20:01:56,2026-03-03 20:14:32,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 20:11:18,2026-03-03 20:20:00,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 20:48:53,2026-03-03 20:51:10,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 20:57:32,2026-03-03 20:59:21,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 21:09:49,2026-03-03 21:11:39,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 21:12:46,2026-03-03 21:23:35,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-03 22:10:57,2026-03-03 22:10:59,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-03 22:11:26,2026-03-03 22:12:57,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-03 22:12:09,2026-03-03 22:12:11,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-03 22:13:10,2026-03-03 22:14:09,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-03 22:14:48,2026-03-03 22:17:58,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-04 01:42:28,2026-03-04 01:42:51,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 01:42:46,2026-03-04 01:43:11,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 01:42:59,2026-03-04 01:43:10,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 01:43:14,2026-03-04 01:43:24,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 03:06:17,2026-03-04 03:06:28,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 03:06:28,2026-03-04 03:06:39,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 03:06:41,2026-03-04 03:06:54,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 03:07:01,2026-03-04 03:07:19,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 03:07:21,2026-03-04 03:07:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 04:29:01,2026-03-04 04:32:00,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-04 04:30:07,2026-03-04 04:31:43,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-04 04:36:10,2026-03-04 04:39:43,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-04 05:01:34,2026-03-04 05:01:45,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 05:01:46,2026-03-04 05:01:56,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 05:02:06,2026-03-04 05:02:16,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 05:02:25,2026-03-04 05:02:30,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 05:02:44,2026-03-04 05:02:59,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 05:02:53,2026-03-04 05:03:03,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 05:03:08,2026-03-04 05:03:30,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 05:09:47,2026-03-04 05:11:04,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-04 05:10:06,2026-03-04 05:10:09,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-04 05:10:26,2026-03-04 05:16:04,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-04 05:10:27,2026-03-04 05:10:30,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-04 05:12:05,2026-03-04 05:17:54,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-04 05:12:09,2026-03-04 05:12:10,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-04 05:12:14,2026-03-04 05:16:22,NEP_TT03_L,NEP - température départ basse,Moyenne,NEP
+2026-03-04 05:12:39,2026-03-04 05:19:15,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-04 05:21:24,2026-03-04 05:27:41,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-04 05:30:24,2026-03-04 05:40:20,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 05:46:34,2026-03-04 05:56:17,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 05:49:02,2026-03-04 06:02:55,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 05:54:59,2026-03-04 06:06:24,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 05:59:43,2026-03-04 05:59:52,SUP_COM_PLC05,Supervision - perte communication automate 5,Haute,Supervision
+2026-03-04 06:15:08,2026-03-04 06:15:14,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 06:15:25,2026-03-04 06:15:39,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 06:15:35,2026-03-04 06:15:56,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 06:15:53,2026-03-04 06:16:03,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 06:16:15,2026-03-04 06:16:19,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 06:16:31,2026-03-04 06:16:53,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 06:16:42,2026-03-04 06:16:48,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 06:23:39,2026-03-04 06:23:56,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 06:23:54,2026-03-04 06:24:13,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 06:24:08,2026-03-04 06:24:23,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 06:24:19,2026-03-04 06:24:43,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 06:24:32,2026-03-04 06:24:36,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 06:25:17,2026-03-04 06:28:00,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 06:33:12,2026-03-04 06:36:33,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-04 06:41:17,2026-03-04 06:46:54,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 07:02:07,2026-03-04 07:03:48,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-04 07:04:10,2026-03-04 07:13:18,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-04 07:05:09,2026-03-04 07:08:33,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 07:06:40,2026-03-04 07:10:13,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-04 07:21:39,2026-03-04 07:27:56,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-04 07:23:03,2026-03-04 07:31:32,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-04 07:25:10,2026-03-04 07:29:40,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 07:27:25,2026-03-04 07:38:55,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 07:30:36,2026-03-04 07:30:48,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 07:30:49,2026-03-04 07:30:54,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 07:31:00,2026-03-04 07:31:08,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 07:31:23,2026-03-04 07:31:28,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 07:31:40,2026-03-04 07:31:46,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 07:31:54,2026-03-04 07:32:00,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 07:34:18,2026-03-04 07:43:07,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 07:46:14,2026-03-04 07:48:07,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-04 08:15:28,2026-03-04 08:27:07,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 08:26:25,2026-03-04 08:32:40,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-04 08:44:38,2026-03-04 08:52:47,FR01_TT01_H,Chambre froide 1 - température haute,Haute,Froid
+2026-03-04 09:02:31,2026-03-04 09:07:16,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 09:10:45,2026-03-04 09:11:05,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 09:11:07,2026-03-04 09:11:28,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 09:11:16,2026-03-04 09:11:23,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 09:11:25,2026-03-04 09:11:44,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 09:28:17,2026-03-04 09:28:54,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-04 09:40:05,2026-03-06 21:15:05,STEP_AT01_L,STEP - pH effluent bas,Haute,STEP
+2026-03-04 09:43:47,2026-03-04 09:44:05,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 09:43:58,2026-03-04 09:44:07,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 09:44:08,2026-03-04 09:44:13,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 09:44:19,2026-03-04 09:44:38,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 09:44:27,2026-03-04 09:44:51,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 09:44:47,2026-03-04 09:45:00,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 09:45:05,2026-03-04 09:45:10,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 10:02:50,2026-03-04 10:03:01,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:03:05,2026-03-04 10:03:15,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:03:29,2026-03-04 10:03:39,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:03:41,2026-03-04 10:03:46,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:04:01,2026-03-04 10:04:06,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:10:31,2026-03-04 10:14:15,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-04 10:17:45,2026-03-04 10:19:27,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-04 10:19:30,2026-03-04 10:25:27,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-04 10:21:03,2026-03-04 10:22:22,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 10:32:00,2026-03-04 10:37:49,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 10:34:44,2026-03-04 10:39:39,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-04 10:43:24,2026-03-04 12:27:49,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-04 10:47:12,2026-03-04 11:27:12,CHD_TRIP,Chaudière vapeur - déclenchement brûleur,Haute,Utilités
+2026-03-04 10:47:52,2026-03-04 11:26:12,CHD_PT02_L,Chaudière vapeur - pression vapeur basse,Haute,Utilités
+2026-03-04 10:48:12,2026-03-04 10:48:20,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:48:22,2026-03-04 11:13:22,PAS_TT05_L,Pasteurisateur - température chambrage basse,Haute,Pasteurisation
+2026-03-04 10:48:26,2026-03-04 11:13:26,PAS_FV01_DEV,Pasteurisateur - vanne de dérivation en position retour,Haute,Pasteurisation
+2026-03-04 10:48:42,2026-03-04 10:48:49,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:48:47,2026-03-04 10:58:47,PAS_PDT01_L,Pasteurisateur - différentiel de pression régénération bas,Haute,Pasteurisation
+2026-03-04 10:48:52,2026-03-04 10:49:01,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:49:10,2026-03-04 10:49:14,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:49:12,2026-03-04 11:19:12,NEP_TT03_L,NEP - température départ basse,Moyenne,NEP
+2026-03-04 10:49:17,2026-03-04 11:04:17,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-04 10:49:32,2026-03-04 10:49:39,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:49:32,2026-03-04 10:49:37,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-04 10:49:38,2026-03-04 10:49:44,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:49:42,2026-03-04 11:04:42,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-04 10:50:06,2026-03-04 10:50:09,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:50:07,2026-03-04 10:50:13,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-04 10:50:12,2026-03-04 10:50:21,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:50:12,2026-03-04 11:18:32,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 10:50:32,2026-03-04 11:10:32,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-04 10:50:34,2026-03-04 10:50:37,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:50:37,2026-03-04 11:18:57,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 10:50:42,2026-03-04 10:50:51,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-04 10:50:52,2026-03-04 10:50:59,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:51:02,2026-03-04 11:19:22,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 10:51:02,2026-03-04 10:51:08,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:51:17,2026-03-04 10:51:30,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-04 10:51:30,2026-03-04 10:51:36,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:51:32,2026-03-04 10:51:40,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:51:32,2026-03-04 11:21:32,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-04 10:51:52,2026-03-04 10:51:57,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-04 10:51:58,2026-03-04 10:52:02,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:52:12,2026-03-04 10:52:19,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:52:12,2026-03-04 10:52:24,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 10:52:26,2026-03-04 10:52:35,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:52:27,2026-03-04 10:52:39,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-04 10:52:42,2026-03-04 10:52:50,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 10:52:42,2026-03-04 10:52:50,SUP_COM_PLC03,Supervision - perte communication automate 3,Haute,Supervision
+2026-03-04 10:52:52,2026-03-04 10:53:01,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 10:52:54,2026-03-04 10:53:00,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:53:02,2026-03-04 10:53:20,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-04 10:53:12,2026-03-04 10:53:21,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 10:53:22,2026-03-04 10:53:27,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:53:27,2026-03-04 10:53:31,SUP_COM_PLC03,Supervision - perte communication automate 3,Haute,Supervision
+2026-03-04 10:53:37,2026-03-04 10:53:44,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-04 10:53:42,2026-03-04 10:54:01,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 10:53:50,2026-03-04 10:53:57,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:54:12,2026-03-04 10:54:29,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 10:54:12,2026-03-04 10:54:18,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-04 10:54:12,2026-03-04 10:54:16,SUP_COM_PLC03,Supervision - perte communication automate 3,Haute,Supervision
+2026-03-04 10:54:18,2026-03-04 10:54:25,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:54:42,2026-03-04 10:54:52,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 10:54:46,2026-03-04 10:54:51,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-04 10:54:47,2026-03-04 10:55:05,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-04 10:54:57,2026-03-04 10:55:03,SUP_COM_PLC03,Supervision - perte communication automate 3,Haute,Supervision
+2026-03-04 10:55:12,2026-03-04 10:55:20,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 10:55:42,2026-03-04 10:55:58,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 10:55:42,2026-03-04 10:55:48,SUP_COM_PLC03,Supervision - perte communication automate 3,Haute,Supervision
+2026-03-04 10:56:12,2026-03-04 10:56:20,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 11:14:50,2026-03-04 11:15:04,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 11:15:06,2026-03-04 11:15:25,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 11:15:26,2026-03-04 11:15:47,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 11:15:46,2026-03-04 11:16:07,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 11:16:08,2026-03-04 11:16:13,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 11:16:17,2026-03-04 11:16:32,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 11:16:26,2026-03-04 11:16:48,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 11:16:43,2026-03-04 11:17:06,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 11:16:58,2026-03-04 11:17:04,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 11:33:52,2026-03-04 11:33:58,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 11:34:14,2026-03-04 11:34:21,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 11:34:30,2026-03-04 11:34:39,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 11:34:40,2026-03-04 11:34:48,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 11:34:54,2026-03-04 11:35:03,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 11:35:16,2026-03-04 11:35:22,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 11:38:05,2026-03-04 11:40:34,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 11:38:57,2026-03-04 11:39:01,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 11:39:10,2026-03-04 11:47:03,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 11:39:18,2026-03-04 11:39:24,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 11:39:34,2026-03-04 11:39:46,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 11:39:49,2026-03-04 11:39:58,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 11:40:10,2026-03-04 11:40:15,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 11:40:23,2026-03-04 11:40:31,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 11:43:06,2026-03-04 11:52:56,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 11:45:48,2026-03-04 11:50:19,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-04 11:49:04,2026-03-04 11:58:14,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-04 11:57:05,2026-03-04 12:10:51,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 11:58:05,2026-03-04 12:02:03,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 12:18:43,2026-03-04 12:27:22,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 12:30:51,2026-03-04 12:32:56,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-04 12:38:21,2026-03-04 12:42:42,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 12:43:39,2026-03-04 12:48:40,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 12:49:27,2026-03-04 12:49:35,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 12:49:38,2026-03-04 12:49:46,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 12:49:50,2026-03-04 12:50:00,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 12:50:14,2026-03-04 12:50:25,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 12:50:38,2026-03-04 12:50:47,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 13:09:01,2026-03-04 13:23:43,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 13:21:16,2026-03-04 13:21:20,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-04 13:21:54,2026-03-04 13:26:01,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-04 13:23:19,2026-03-04 13:24:26,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-04 13:23:33,2026-03-04 13:23:37,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-04 13:24:20,2026-03-04 13:24:24,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-04 13:24:50,2026-03-04 13:24:53,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-04 13:27:17,2026-03-04 13:39:07,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 13:40:20,2026-03-04 14:06:37,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-04 13:43:56,2026-03-04 13:44:03,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 13:44:12,2026-03-04 14:03:34,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-04 13:44:18,2026-03-04 13:44:24,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 13:44:37,2026-03-04 13:44:41,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 13:44:48,2026-03-04 13:44:56,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 13:46:26,2026-03-04 13:46:32,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 13:46:37,2026-03-04 13:46:50,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 13:46:49,2026-03-04 13:47:05,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 14:08:40,2026-03-04 14:08:46,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 14:09:05,2026-03-04 14:09:09,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 14:09:28,2026-03-04 14:09:34,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 14:09:41,2026-03-04 14:09:51,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 14:10:01,2026-03-04 14:10:04,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 14:10:22,2026-03-04 14:10:27,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-04 14:29:48,2026-03-04 16:24:38,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-04 14:37:38,2026-03-04 14:55:59,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-04 14:37:43,2026-03-04 14:44:24,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 14:40:06,2026-03-04 14:46:13,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 15:01:29,2026-03-04 15:30:28,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-04 15:12:34,2026-03-04 15:25:08,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 15:25:42,2026-03-04 15:36:36,FR01_TT01_H,Chambre froide 1 - température haute,Haute,Froid
+2026-03-04 15:28:47,2026-03-04 15:38:22,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 15:30:10,2026-03-04 15:44:09,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 15:37:06,2026-03-04 15:42:03,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-04 16:13:12,2026-03-04 16:52:13,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-04 16:18:18,2026-03-04 16:36:17,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-04 16:25:05,2026-03-04 16:28:50,HVAC_CND_DP,Salle de conditionnement - surpression basse,Moyenne,Conditionnement
+2026-03-04 16:41:01,2026-03-04 16:49:21,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 16:41:03,2026-03-04 16:50:04,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 16:45:48,2026-03-04 16:59:39,STEP_LT01_H,STEP - niveau bassin tampon haut,Moyenne,STEP
+2026-03-04 17:15:29,2026-03-04 17:25:40,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 17:20:43,2026-03-04 17:25:05,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-04 17:37:15,2026-03-04 17:40:46,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 17:38:31,2026-03-04 17:41:29,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-04 17:57:59,2026-03-04 18:07:37,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 18:28:55,2026-03-04 18:40:44,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 18:47:52,2026-03-04 18:59:04,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 18:51:13,2026-03-04 18:54:48,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-04 19:03:19,2026-03-04 19:39:18,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-04 19:42:55,2026-03-04 19:50:36,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 19:49:22,2026-03-04 20:02:44,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 19:56:53,2026-03-04 20:08:32,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 20:09:36,2026-03-04 20:22:42,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 20:10:47,2026-03-04 20:19:56,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 20:16:08,2026-03-04 20:23:23,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 20:16:37,2026-03-04 20:20:20,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 20:17:43,2026-03-04 20:25:11,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 20:30:29,2026-03-04 20:30:41,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 20:30:38,2026-03-04 20:30:45,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 20:30:47,2026-03-04 20:30:56,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 20:31:08,2026-03-04 20:31:14,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 20:31:19,2026-03-04 20:31:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 20:31:32,2026-03-04 20:31:42,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 20:37:53,2026-03-04 20:50:20,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 21:11:59,2026-03-04 21:25:05,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-04 22:13:40,2026-03-04 22:13:43,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-04 22:13:47,2026-03-04 22:13:50,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-04 22:15:25,2026-03-04 22:17:50,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-04 23:55:35,2026-03-04 23:55:56,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 23:55:44,2026-03-04 23:56:08,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 23:55:54,2026-03-04 23:56:12,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-04 23:56:15,2026-03-04 23:56:27,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 01:16:06,2026-03-05 01:16:15,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 01:16:26,2026-03-05 01:16:38,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 01:16:34,2026-03-05 01:16:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 01:16:44,2026-03-05 01:17:05,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 01:16:53,2026-03-05 01:17:11,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 01:17:05,2026-03-05 01:17:27,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 03:49:57,2026-03-05 03:50:07,SUP_COM_PLC05,Supervision - perte communication automate 5,Haute,Supervision
+2026-03-05 04:27:38,2026-03-05 04:30:01,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-05 04:56:01,2026-03-05 04:56:02,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-05 04:56:07,2026-03-05 04:56:09,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-05 04:56:22,2026-03-05 05:00:49,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-05 04:56:44,2026-03-05 04:56:48,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-05 04:58:21,2026-03-05 04:58:58,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-05 04:58:33,2026-03-05 05:01:14,NEP_TT03_L,NEP - température départ basse,Moyenne,NEP
+2026-03-05 05:01:06,2026-03-05 05:05:13,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-05 05:13:01,2026-03-05 05:17:08,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-05 05:23:42,2026-03-05 05:37:34,REC_PMP01_DEF,Réception - défaut pompe de dépotage,Moyenne,Réception
+2026-03-05 05:44:01,2026-03-05 05:57:35,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 05:56:05,2026-03-05 06:00:22,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-05 06:00:24,2026-03-05 06:02:44,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-05 06:15:40,2026-03-05 06:17:50,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-05 06:20:21,2026-03-05 06:23:31,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 06:22:08,2026-03-05 06:24:57,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 06:22:47,2026-03-05 06:25:59,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-05 06:27:49,2026-03-05 06:33:27,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 06:27:57,2026-03-05 06:34:17,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 06:57:13,2026-03-05 07:00:32,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-05 07:00:26,2026-03-05 07:04:14,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-05 07:10:24,2026-03-05 07:16:25,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 07:35:47,2026-03-05 07:39:47,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-05 07:47:13,2026-03-05 07:47:18,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 07:47:33,2026-03-05 07:47:41,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 07:47:50,2026-03-05 07:47:58,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 07:48:06,2026-03-05 07:48:18,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 07:58:43,2026-03-05 07:58:54,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 07:59:06,2026-03-05 07:59:16,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 07:59:27,2026-03-05 07:59:33,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 07:59:54,2026-03-05 08:01:01,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-05 08:03:56,2026-03-05 08:18:52,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 08:09:03,2026-03-05 08:12:32,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 08:18:39,2026-03-05 08:27:21,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-05 08:19:36,2026-03-05 08:28:50,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 08:39:07,2026-03-05 08:44:40,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 09:04:36,2026-03-05 09:11:34,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-05 09:16:52,2026-03-05 09:25:04,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 09:35:19,2026-03-05 09:36:15,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-05 09:54:05,2026-03-05 10:01:55,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 09:56:34,2026-03-05 10:07:56,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 09:57:05,2026-03-05 10:00:41,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-05 10:03:57,2026-03-05 10:08:36,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 10:14:38,2026-03-05 10:14:45,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 10:14:55,2026-03-05 10:15:06,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 10:15:11,2026-03-05 10:15:21,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 10:15:33,2026-03-05 10:15:42,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 10:22:31,2026-03-05 10:36:31,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 10:24:12,2026-03-05 10:28:26,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 10:32:21,2026-03-05 10:36:36,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-05 10:40:03,2026-03-05 10:44:36,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 10:43:37,2026-03-05 10:47:14,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-05 10:44:09,2026-03-05 10:45:41,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 10:48:26,2026-03-05 10:48:47,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 10:48:43,2026-03-05 10:49:07,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 10:49:00,2026-03-05 10:49:20,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 10:49:12,2026-03-05 10:49:33,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 10:49:31,2026-03-05 10:49:35,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 10:49:53,2026-03-05 10:50:10,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 10:54:02,2026-03-05 10:54:09,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 10:54:21,2026-03-05 10:54:31,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 10:54:31,2026-03-05 10:54:45,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 10:54:53,2026-03-05 10:55:06,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 10:57:19,2026-03-05 10:58:48,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 11:04:38,2026-03-05 11:10:20,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-05 11:07:02,2026-03-05 11:07:17,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 11:07:17,2026-03-05 11:07:25,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 11:07:27,2026-03-05 11:07:46,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 11:07:39,2026-03-05 11:07:50,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 11:07:49,2026-03-05 11:08:07,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 11:08:05,2026-03-05 11:08:12,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 11:08:16,2026-03-05 11:08:35,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 11:08:34,2026-03-05 11:08:47,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 11:08:54,2026-03-05 11:09:00,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 11:21:58,2026-03-05 11:22:06,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 11:22:15,2026-03-05 11:22:20,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 11:22:39,2026-03-05 11:22:42,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 11:23:33,2026-03-05 11:34:46,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-05 11:28:09,2026-03-05 11:28:58,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-05 11:37:50,2026-03-05 11:39:29,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 11:41:43,2026-03-05 11:58:04,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-05 12:22:04,2026-03-05 12:26:49,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 12:25:14,2026-03-05 12:36:06,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-05 13:11:53,2026-03-05 13:26:17,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 13:25:14,2026-03-05 13:25:56,PAS_TT05_L,Pasteurisateur - température chambrage basse,Haute,Pasteurisation
+2026-03-05 13:25:17,2026-03-05 13:26:47,PAS_FV01_DEV,Pasteurisateur - vanne de dérivation en position retour,Haute,Pasteurisation
+2026-03-05 13:37:25,2026-03-05 13:37:28,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-05 13:38:17,2026-03-05 13:38:20,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-05 13:38:22,2026-03-05 13:38:25,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-05 13:38:26,2026-03-05 13:41:16,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-05 13:38:59,2026-03-05 13:39:03,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-05 13:39:17,2026-03-05 13:40:15,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-05 13:50:53,2026-03-05 13:53:10,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-05 14:03:30,2026-03-05 14:12:25,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-05 14:22:30,2026-03-05 14:27:17,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-05 14:28:20,2026-03-05 14:42:05,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 14:31:59,2026-03-05 14:34:36,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 14:34:29,2026-03-05 14:34:48,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 14:34:46,2026-03-05 14:34:55,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 14:35:07,2026-03-05 14:35:15,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 14:35:22,2026-03-05 14:35:40,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 14:57:52,2026-03-05 14:58:01,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 14:58:14,2026-03-05 14:58:22,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 14:58:31,2026-03-05 14:58:35,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 14:58:44,2026-03-05 14:58:56,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 14:59:01,2026-03-05 14:59:26,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 14:59:20,2026-03-05 14:59:29,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 14:59:40,2026-03-05 15:00:04,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 14:59:50,2026-03-05 15:00:02,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 15:00:06,2026-03-05 15:00:15,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 15:04:52,2026-03-05 15:07:30,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-05 15:08:26,2026-03-05 15:11:15,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-05 15:34:17,2026-03-05 15:47:16,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 15:35:09,2026-03-05 15:47:49,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 15:36:15,2026-03-05 15:39:04,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-05 15:55:44,2026-03-05 16:01:15,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-05 16:11:02,2026-03-05 17:09:08,STEP_LT01_H,STEP - niveau bassin tampon haut,Moyenne,STEP
+2026-03-05 16:16:11,2026-03-05 16:20:40,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 16:30:53,2026-03-05 16:44:21,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 16:57:01,2026-03-05 17:26:59,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-05 16:59:11,2026-03-05 17:01:19,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 17:05:09,2026-03-05 17:17:00,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 17:05:23,2026-03-05 18:32:33,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-05 17:05:37,2026-03-05 17:18:46,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 17:06:17,2026-03-05 17:31:11,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-05 17:25:37,2026-03-05 17:25:41,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 17:25:51,2026-03-05 17:25:56,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 17:26:04,2026-03-05 17:26:13,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 17:26:26,2026-03-05 17:26:35,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 17:26:37,2026-03-05 17:26:44,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 17:27:02,2026-03-05 17:27:13,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-05 17:49:43,2026-03-05 17:53:37,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 17:59:56,2026-03-05 18:04:38,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 18:01:12,2026-03-05 18:04:56,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 18:26:07,2026-03-05 18:33:49,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-05 18:29:27,2026-03-05 18:42:29,FR01_TT01_H,Chambre froide 1 - température haute,Haute,Froid
+2026-03-05 18:41:39,2026-03-05 18:47:19,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 19:06:39,2026-03-05 19:17:28,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 19:08:27,2026-03-05 19:12:44,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 19:45:19,2026-03-05 19:49:19,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 19:56:29,2026-03-05 20:07:18,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 20:03:44,2026-03-05 20:13:15,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 20:18:22,2026-03-05 20:25:40,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 20:54:11,2026-03-05 20:58:22,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 21:17:48,2026-03-05 21:30:05,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 21:25:24,2026-03-05 21:39:57,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 21:27:04,2026-03-05 21:39:45,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-05 22:23:21,2026-03-05 22:23:23,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-05 22:23:58,2026-03-05 22:29:57,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-05 22:25:05,2026-03-05 22:25:08,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-05 22:26:00,2026-03-05 22:32:34,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-05 23:05:17,2026-03-05 23:05:36,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:05:37,2026-03-05 23:05:57,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:05:46,2026-03-05 23:05:59,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:06:01,2026-03-05 23:06:06,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:06:15,2026-03-05 23:06:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:06:36,2026-03-05 23:06:53,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:06:55,2026-03-05 23:07:12,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:07:15,2026-03-05 23:07:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:25:34,2026-03-05 23:25:43,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:25:51,2026-03-05 23:26:07,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:26:07,2026-03-05 23:26:15,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:26:25,2026-03-05 23:26:38,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:26:37,2026-03-05 23:26:43,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:26:49,2026-03-05 23:26:55,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-05 23:27:02,2026-03-05 23:27:24,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 01:37:09,2026-03-06 03:13:49,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-06 04:01:51,2026-03-06 04:05:24,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-06 04:58:28,2026-03-06 05:02:33,NEP_TT03_L,NEP - température départ basse,Moyenne,NEP
+2026-03-06 04:58:48,2026-03-06 04:58:51,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-06 04:59:33,2026-03-06 04:59:34,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-06 04:59:53,2026-03-06 05:00:39,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-06 05:00:17,2026-03-06 05:04:07,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-06 06:18:01,2026-03-06 06:22:29,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 06:19:28,2026-03-06 06:24:58,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 06:24:24,2026-03-06 06:27:58,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 06:40:56,2026-03-06 06:47:14,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 06:49:04,2026-03-06 06:51:41,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 06:52:17,2026-03-06 07:02:22,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 07:09:34,2026-03-06 07:09:46,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 07:09:46,2026-03-06 07:09:57,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 07:10:08,2026-03-06 07:10:19,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 07:10:31,2026-03-06 07:10:39,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 07:10:44,2026-03-06 07:10:49,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 07:11:04,2026-03-06 07:11:09,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 07:15:08,2026-03-06 07:21:35,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 07:19:02,2026-03-06 07:25:14,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 07:25:38,2026-03-06 07:29:16,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-06 07:33:31,2026-03-06 07:34:22,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-06 07:36:07,2026-03-06 07:46:50,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 08:00:57,2026-03-06 08:10:27,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 08:16:44,2026-03-06 08:23:14,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 08:26:22,2026-03-06 08:31:12,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 08:29:32,2026-03-06 08:32:28,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 08:32:49,2026-03-06 08:38:58,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 08:39:16,2026-03-06 08:43:23,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 08:41:05,2026-03-06 08:50:48,HVAC_CND_DP,Salle de conditionnement - surpression basse,Moyenne,Conditionnement
+2026-03-06 08:41:47,2026-03-06 08:47:17,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 08:52:14,2026-03-06 09:02:05,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 08:54:49,2026-03-06 08:59:46,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 08:55:45,2026-03-06 08:55:59,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 08:55:57,2026-03-06 08:56:05,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 08:56:05,2026-03-06 08:56:24,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 08:56:26,2026-03-06 08:56:46,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 09:02:24,2026-03-06 09:03:35,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-06 09:02:34,2026-03-06 09:08:44,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 09:06:05,2026-03-06 09:06:29,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 09:06:23,2026-03-06 09:06:45,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 09:06:32,2026-03-06 09:06:46,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 09:06:51,2026-03-06 09:06:56,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 09:07:07,2026-03-06 09:07:19,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 09:07:28,2026-03-06 09:07:52,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 09:21:44,2026-03-06 09:36:17,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 09:23:03,2026-03-06 09:34:56,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 09:23:28,2026-03-06 09:28:40,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 09:30:01,2026-03-06 09:34:08,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 09:45:17,2026-03-06 09:49:41,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 09:46:48,2026-03-06 09:50:14,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-06 09:56:08,2026-03-06 10:02:06,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 10:12:09,2026-03-06 10:20:53,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 10:12:59,2026-03-06 10:20:07,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 10:13:10,2026-03-06 10:13:23,SUP_COM_PLC05,Supervision - perte communication automate 5,Haute,Supervision
+2026-03-06 10:20:47,2026-03-06 10:21:35,PAS_TT05_L,Pasteurisateur - température chambrage basse,Haute,Pasteurisation
+2026-03-06 10:20:51,2026-03-06 10:22:05,PAS_FV01_DEV,Pasteurisateur - vanne de dérivation en position retour,Haute,Pasteurisation
+2026-03-06 10:37:47,2026-03-06 10:38:19,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-06 10:44:15,2026-03-06 10:56:14,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 10:46:22,2026-03-06 10:51:04,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-06 10:48:33,2026-03-06 10:53:37,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-06 10:52:24,2026-03-06 11:04:29,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 11:05:10,2026-03-06 11:07:11,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-06 11:15:06,2026-03-06 11:24:29,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 11:15:36,2026-03-06 11:19:30,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-06 11:22:04,2026-03-06 11:27:58,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 11:24:33,2026-03-06 11:41:20,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-06 12:10:22,2026-03-06 12:20:13,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 12:18:44,2026-03-06 12:18:53,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 12:19:07,2026-03-06 12:19:11,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 12:19:18,2026-03-06 12:19:25,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 12:21:10,2026-03-06 12:36:24,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-06 12:25:27,2026-03-06 12:28:24,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 12:30:37,2026-03-06 12:34:26,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 12:43:28,2026-03-06 12:45:17,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 12:50:44,2026-03-06 13:01:28,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 12:52:24,2026-03-06 12:52:36,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 12:52:35,2026-03-06 12:52:42,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 12:52:48,2026-03-06 12:52:52,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 12:52:59,2026-03-06 12:53:13,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 12:53:11,2026-03-06 12:53:18,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 12:53:19,2026-03-06 12:53:41,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 12:53:28,2026-03-06 12:53:48,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 13:18:29,2026-03-06 13:35:44,FR01_TT01_H,Chambre froide 1 - température haute,Haute,Froid
+2026-03-06 13:32:02,2026-03-06 13:41:28,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 13:33:04,2026-03-06 13:36:45,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-06 13:33:40,2026-03-06 13:35:01,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-06 13:34:44,2026-03-06 13:34:46,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-06 13:34:44,2026-03-06 13:34:45,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-06 13:35:04,2026-03-06 13:35:07,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-06 13:35:27,2026-03-06 13:38:56,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-06 13:36:04,2026-03-06 13:37:12,NEP_TT03_L,NEP - température départ basse,Moyenne,NEP
+2026-03-06 13:36:10,2026-03-06 13:38:24,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 13:43:56,2026-03-06 13:44:01,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 13:44:05,2026-03-06 13:44:21,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 13:44:14,2026-03-06 13:44:36,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 13:44:28,2026-03-06 13:44:38,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 13:44:39,2026-03-06 13:44:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 13:44:58,2026-03-06 13:45:21,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 13:45:19,2026-03-06 13:45:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 13:45:31,2026-03-06 13:45:44,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 13:49:00,2026-03-06 13:49:09,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 13:49:15,2026-03-06 13:49:23,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 13:49:27,2026-03-06 13:49:37,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 13:49:43,2026-03-06 13:49:51,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 13:50:06,2026-03-06 13:56:00,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 13:53:21,2026-03-06 13:59:13,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-06 13:54:25,2026-03-06 14:00:35,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 13:59:26,2026-03-06 13:59:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 13:59:47,2026-03-06 14:00:08,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 14:00:09,2026-03-06 14:00:31,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 14:00:20,2026-03-06 14:00:32,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 14:00:41,2026-03-06 14:01:05,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 14:00:59,2026-03-06 14:01:11,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 14:01:09,2026-03-06 14:01:28,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 14:01:24,2026-03-06 14:01:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 14:27:13,2026-03-06 14:30:25,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 14:30:42,2026-03-06 14:35:25,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 14:50:07,2026-03-06 14:59:56,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 15:09:27,2026-03-06 15:17:31,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 15:15:34,2026-03-06 15:21:16,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 15:21:00,2026-03-06 15:23:27,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 15:26:05,2026-03-06 15:28:12,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 15:27:52,2026-03-06 15:47:53,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-06 15:39:02,2026-03-06 15:39:22,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 15:39:22,2026-03-06 15:39:29,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 15:39:34,2026-03-06 15:39:52,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 15:39:50,2026-03-06 15:40:00,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 15:40:01,2026-03-06 15:40:17,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 15:41:27,2026-03-06 15:44:49,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 15:43:16,2026-03-06 15:51:00,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 15:44:35,2026-03-06 15:44:39,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 15:44:52,2026-03-06 15:45:02,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 15:45:11,2026-03-06 15:45:26,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 15:45:22,2026-03-06 15:45:30,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 15:45:38,2026-03-06 15:45:58,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 15:45:46,2026-03-06 15:46:08,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 15:46:03,2026-03-06 15:46:22,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 16:01:09,2026-03-06 16:15:39,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-06 16:40:49,2026-03-06 16:49:13,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 17:22:48,2026-03-06 18:36:45,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-06 17:30:27,2026-03-06 17:30:32,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 17:30:49,2026-03-06 17:30:59,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 17:31:13,2026-03-06 17:31:20,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 17:39:22,2026-03-06 17:43:59,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 17:47:58,2026-03-06 17:58:14,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 17:51:16,2026-03-06 17:51:27,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 17:51:38,2026-03-06 17:51:42,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 17:52:02,2026-03-06 17:52:08,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 17:52:16,2026-03-06 17:52:21,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 17:52:39,2026-03-06 17:52:43,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 17:52:49,2026-03-06 17:52:59,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-06 18:20:59,2026-03-06 18:27:18,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 18:30:18,2026-03-06 18:33:51,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-06 18:31:43,2026-03-06 18:45:34,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 18:40:36,2026-03-06 18:43:19,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-06 18:42:28,2026-03-06 18:55:46,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 18:49:05,2026-03-06 19:12:46,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-06 18:54:59,2026-03-06 18:56:13,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 19:03:42,2026-03-06 19:08:12,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 19:11:21,2026-03-06 19:14:04,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 19:35:04,2026-03-06 19:43:28,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-06 19:36:26,2026-03-06 19:40:31,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 19:47:17,2026-03-06 19:51:59,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 20:03:13,2026-03-06 20:10:32,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 20:17:33,2026-03-06 20:29:23,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 20:41:39,2026-03-06 20:55:03,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 20:51:10,2026-03-06 20:51:28,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 20:51:20,2026-03-06 20:51:31,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 20:51:41,2026-03-06 20:51:57,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 21:15:57,2026-03-06 22:48:45,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-06 21:17:05,2026-03-06 21:26:10,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 21:19:19,2026-03-06 21:23:28,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 21:25:12,2026-03-06 21:33:16,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-06 22:07:59,2026-03-06 22:08:00,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-06 22:08:14,2026-03-06 22:08:17,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-06 22:08:41,2026-03-06 22:10:14,NEP_TT03_L,NEP - température départ basse,Moyenne,NEP
+2026-03-06 22:09:29,2026-03-06 22:12:18,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-06 22:09:50,2026-03-06 22:09:52,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-06 22:09:58,2026-03-06 22:13:41,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-06 22:37:30,2026-03-06 22:37:47,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 22:37:42,2026-03-06 22:37:47,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 22:37:55,2026-03-06 22:38:02,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 22:38:05,2026-03-06 22:38:26,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 22:38:13,2026-03-06 22:38:19,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 22:38:30,2026-03-06 22:38:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-06 22:56:10,2026-03-06 23:42:28,STEP_LT01_H,STEP - niveau bassin tampon haut,Moyenne,STEP
+2026-03-07 02:16:52,2026-03-07 02:17:10,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 02:17:07,2026-03-07 02:17:22,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 02:17:26,2026-03-07 02:17:36,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 03:10:25,2026-03-07 04:15:22,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-07 04:06:51,2026-03-07 04:07:04,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 04:07:08,2026-03-07 04:07:17,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 04:07:28,2026-03-07 04:07:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 04:07:42,2026-03-07 04:08:01,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 04:08:03,2026-03-07 04:08:28,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 04:08:17,2026-03-07 04:08:40,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 04:08:26,2026-03-07 04:08:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 04:29:19,2026-03-07 04:29:51,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-07 05:01:33,2026-03-07 05:03:10,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-07 05:01:36,2026-03-07 05:02:10,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-07 05:01:41,2026-03-07 05:01:45,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-07 05:02:51,2026-03-07 05:08:08,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-07 05:03:43,2026-03-07 05:03:44,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-07 05:03:44,2026-03-07 05:09:37,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-07 05:04:34,2026-03-07 05:04:37,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-07 05:04:53,2026-03-07 05:07:43,NEP_TT03_L,NEP - température départ basse,Moyenne,NEP
+2026-03-07 05:21:15,2026-03-07 05:23:53,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-07 05:50:20,2026-03-07 06:04:09,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 05:52:52,2026-03-07 05:54:51,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-07 05:56:05,2026-03-07 06:00:45,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-07 06:02:37,2026-03-07 06:02:41,ELEC_RES_DEF,Alimentation réseau - défaut phase,Haute,Utilités
+2026-03-07 06:02:38,2026-03-07 06:02:41,ELEC_UPS_BAT,Onduleur supervision - fonctionnement sur batterie,Haute,Utilités
+2026-03-07 06:02:39,2026-03-07 06:02:48,SUP_COM_PLC03,Supervision - perte communication automate 3,Haute,Supervision
+2026-03-07 06:02:40,2026-03-07 06:02:45,SUP_COM_PLC05,Supervision - perte communication automate 5,Haute,Supervision
+2026-03-07 06:02:42,2026-03-07 06:17:42,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 06:02:43,2026-03-07 06:17:43,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 06:02:44,2026-03-07 06:17:44,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 06:02:45,2026-03-07 06:27:45,REC_PMP01_DEF,Réception - défaut pompe de dépotage,Moyenne,Réception
+2026-03-07 06:02:47,2026-03-07 06:47:47,EGL_CMP01_DEF,Groupe froid 1 - défaut compresseur,Haute,Utilités
+2026-03-07 06:02:57,2026-03-07 06:16:17,HVAC_CND_DP,Salle de conditionnement - surpression basse,Moyenne,Conditionnement
+2026-03-07 06:02:59,2026-03-07 06:03:06,SUP_COM_PLC03,Supervision - perte communication automate 3,Haute,Supervision
+2026-03-07 06:03:02,2026-03-07 06:03:13,SUP_COM_PLC05,Supervision - perte communication automate 5,Haute,Supervision
+2026-03-07 06:03:07,2026-03-07 06:09:47,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 06:03:17,2026-03-07 06:23:17,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-07 06:03:19,2026-03-07 06:03:25,SUP_COM_PLC03,Supervision - perte communication automate 3,Haute,Supervision
+2026-03-07 06:03:24,2026-03-07 06:03:32,SUP_COM_PLC05,Supervision - perte communication automate 5,Haute,Supervision
+2026-03-07 06:03:37,2026-03-07 06:18:37,PAS_TT05_L,Pasteurisateur - température chambrage basse,Haute,Pasteurisation
+2026-03-07 06:03:39,2026-03-07 06:03:52,SUP_COM_PLC03,Supervision - perte communication automate 3,Haute,Supervision
+2026-03-07 06:03:40,2026-03-07 06:20:20,PAS_FV01_DEV,Pasteurisateur - vanne de dérivation en position retour,Haute,Pasteurisation
+2026-03-07 06:03:46,2026-03-07 06:03:55,SUP_COM_PLC05,Supervision - perte communication automate 5,Haute,Supervision
+2026-03-07 06:03:59,2026-03-07 06:04:05,SUP_COM_PLC03,Supervision - perte communication automate 3,Haute,Supervision
+2026-03-07 06:04:07,2026-03-07 06:04:15,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-07 06:04:08,2026-03-07 06:04:22,SUP_COM_PLC05,Supervision - perte communication automate 5,Haute,Supervision
+2026-03-07 06:04:19,2026-03-07 06:04:28,SUP_COM_PLC03,Supervision - perte communication automate 3,Haute,Supervision
+2026-03-07 06:04:30,2026-03-07 06:04:42,SUP_COM_PLC05,Supervision - perte communication automate 5,Haute,Supervision
+2026-03-07 06:04:37,2026-03-07 06:04:40,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-07 06:05:07,2026-03-07 06:05:10,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-07 06:05:37,2026-03-07 06:05:45,PAS_TT05_TRANS,Pasteurisateur - défaut transmetteur TT05,Moyenne,Pasteurisation
+2026-03-07 06:05:57,2026-03-07 06:06:14,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 06:06:22,2026-03-07 06:06:33,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 06:06:47,2026-03-07 06:06:58,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 06:07:12,2026-03-07 06:07:21,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 06:07:37,2026-03-07 06:07:44,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 06:08:02,2026-03-07 06:08:16,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 06:08:27,2026-03-07 06:08:39,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 06:14:14,2026-03-07 07:01:10,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-07 06:16:14,2026-03-07 06:30:23,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 06:31:33,2026-03-07 06:44:23,FR01_TT01_H,Chambre froide 1 - température haute,Haute,Froid
+2026-03-07 06:46:38,2026-03-07 06:57:47,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 07:03:19,2026-03-07 07:03:25,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 07:03:38,2026-03-07 07:03:49,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 07:03:48,2026-03-07 07:03:56,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 07:04:00,2026-03-07 07:04:09,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 07:04:19,2026-03-07 07:04:24,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 07:04:33,2026-03-07 07:04:37,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 07:06:50,2026-03-07 07:20:07,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 07:13:44,2026-03-07 07:23:20,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 07:19:09,2026-03-07 07:22:12,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 07:21:38,2026-03-07 07:34:27,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 07:24:05,2026-03-07 07:37:59,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 07:40:48,2026-03-07 07:45:05,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 07:43:04,2026-03-07 07:45:40,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-07 07:44:05,2026-03-07 07:45:40,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-07 07:49:20,2026-03-07 07:49:27,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 07:49:32,2026-03-07 07:49:37,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 07:49:54,2026-03-07 07:50:01,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 07:50:10,2026-03-07 07:50:19,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 07:50:53,2026-03-07 07:52:04,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-07 08:02:29,2026-03-07 08:14:00,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 08:12:27,2026-03-07 08:15:26,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-07 08:20:43,2026-03-07 08:21:51,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 08:21:13,2026-03-07 08:35:25,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 08:22:25,2026-03-07 08:32:22,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 08:25:48,2026-03-07 08:28:10,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-07 08:40:14,2026-03-07 08:42:20,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-07 08:40:57,2026-03-07 08:43:15,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 08:45:51,2026-03-07 08:46:09,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 08:46:02,2026-03-07 08:46:10,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 08:46:19,2026-03-07 08:46:40,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 08:46:39,2026-03-07 08:46:45,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 08:47:00,2026-03-07 08:47:06,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 08:47:21,2026-03-07 08:47:41,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 08:47:37,2026-03-07 08:47:48,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 08:47:54,2026-03-07 08:48:16,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 08:47:57,2026-03-07 08:52:53,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-07 08:58:23,2026-03-07 09:10:57,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 08:59:58,2026-03-07 09:09:55,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 09:11:22,2026-03-07 09:11:42,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-07 09:14:25,2026-03-07 09:20:17,TK01_LSH,Tank lait cru 1 - niveau très haut,Haute,Réception
+2026-03-07 09:17:47,2026-03-07 09:26:24,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-07 09:19:51,2026-03-07 09:19:57,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 09:20:02,2026-03-07 09:20:14,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 09:20:12,2026-03-07 09:20:28,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 09:25:47,2026-03-07 09:27:49,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 09:50:28,2026-03-07 09:57:57,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 09:56:36,2026-03-07 10:01:49,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 09:59:34,2026-03-07 10:03:18,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 10:03:07,2026-03-07 10:11:41,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 10:03:35,2026-03-07 10:08:13,REC_FT01_DEV,Réception - écart débitmètre / bon de livraison,Basse,Réception
+2026-03-07 10:07:34,2026-03-07 10:07:45,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 10:07:49,2026-03-07 10:08:04,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 10:08:07,2026-03-07 10:08:23,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 10:08:17,2026-03-07 10:08:22,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 10:08:31,2026-03-07 10:08:36,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 10:08:42,2026-03-07 10:08:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 10:08:52,2026-03-07 10:09:07,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 10:09:12,2026-03-07 10:09:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 10:16:22,2026-03-07 10:21:05,HVAC_CND_DP,Salle de conditionnement - surpression basse,Moyenne,Conditionnement
+2026-03-07 10:20:22,2026-03-07 10:34:28,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 10:25:42,2026-03-07 11:37:56,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-07 10:26:15,2026-03-07 10:49:02,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-07 10:45:22,2026-03-07 10:48:13,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 11:10:14,2026-03-07 11:18:45,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 11:15:40,2026-03-07 11:15:44,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 11:15:57,2026-03-07 11:16:00,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 11:16:11,2026-03-07 11:16:20,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 11:16:26,2026-03-07 11:16:37,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 11:16:37,2026-03-07 11:16:44,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 11:16:55,2026-03-07 11:17:00,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 11:17:15,2026-03-07 11:23:02,REC_PMP01_DEF,Réception - défaut pompe de dépotage,Moyenne,Réception
+2026-03-07 11:17:35,2026-03-07 11:18:32,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-07 11:30:20,2026-03-07 11:45:19,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 11:32:13,2026-03-07 11:32:26,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 11:32:29,2026-03-07 11:32:38,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 11:32:42,2026-03-07 11:32:56,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 11:32:52,2026-03-07 11:32:56,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 11:33:12,2026-03-07 11:33:18,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 11:33:21,2026-03-07 11:33:28,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 11:33:33,2026-03-07 11:33:54,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 11:33:45,2026-03-07 11:34:04,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 11:44:26,2026-03-07 11:44:35,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 11:44:43,2026-03-07 11:44:50,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 11:45:08,2026-03-07 11:45:17,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 11:45:27,2026-03-07 11:45:31,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 11:49:56,2026-03-07 11:58:01,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 11:51:27,2026-03-07 11:56:16,HVAC_CND_DP,Salle de conditionnement - surpression basse,Moyenne,Conditionnement
+2026-03-07 11:59:40,2026-03-07 12:05:55,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 12:16:54,2026-03-07 12:24:48,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 12:19:42,2026-03-07 12:33:38,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 12:21:18,2026-03-07 12:33:56,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 12:21:22,2026-03-07 12:23:57,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 12:28:21,2026-03-07 12:38:32,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 12:40:44,2026-03-07 12:50:53,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 12:43:17,2026-03-07 12:57:54,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 13:14:43,2026-03-07 13:14:48,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 13:15:04,2026-03-07 13:15:12,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 13:15:24,2026-03-07 13:15:36,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 13:15:38,2026-03-07 13:15:44,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 13:25:23,2026-03-07 13:25:24,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-07 13:26:02,2026-03-07 13:27:26,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-07 13:26:04,2026-03-07 13:30:12,NEP_TT03_L,NEP - température départ basse,Moyenne,NEP
+2026-03-07 13:26:25,2026-03-07 13:28:06,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-07 13:26:36,2026-03-07 13:33:00,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-07 13:28:44,2026-03-07 13:28:45,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-07 13:28:58,2026-03-07 13:33:02,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-07 13:31:57,2026-03-07 13:32:13,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 13:32:11,2026-03-07 13:32:21,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 13:32:24,2026-03-07 13:32:32,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 13:32:40,2026-03-07 13:33:00,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 13:32:53,2026-03-07 13:33:16,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 13:33:06,2026-03-07 13:33:13,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 14:13:52,2026-03-07 14:25:23,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 14:15:13,2026-03-07 14:22:00,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 14:20:09,2026-03-07 14:25:09,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 14:40:03,2026-03-07 15:04:35,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-07 15:15:46,2026-03-07 15:30:28,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 15:33:14,2026-03-07 15:33:22,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 15:33:27,2026-03-07 15:33:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 15:33:48,2026-03-07 15:33:58,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 15:33:59,2026-03-07 15:34:21,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 15:34:12,2026-03-07 15:34:34,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 15:34:24,2026-03-07 15:39:32,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 15:34:31,2026-03-07 15:34:43,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 15:34:44,2026-03-07 15:35:01,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 15:35:02,2026-03-07 15:35:16,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 15:35:23,2026-03-07 15:35:27,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 15:41:11,2026-03-07 16:07:36,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-07 15:52:33,2026-03-07 16:06:37,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 15:59:59,2026-03-07 16:02:34,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-07 16:07:24,2026-03-07 16:21:57,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 16:20:46,2026-03-07 16:30:34,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 16:24:55,2026-03-07 16:25:44,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-07 16:49:42,2026-03-07 16:57:06,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-07 17:01:08,2026-03-07 17:38:05,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-07 17:23:37,2026-03-07 17:29:53,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-07 17:37:52,2026-03-07 17:43:45,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 17:57:39,2026-03-07 18:00:03,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 18:04:40,2026-03-07 18:29:22,HVAC_CND_HR,Salle de conditionnement - humidité haute,Basse,Conditionnement
+2026-03-07 18:42:56,2026-03-07 18:43:09,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 18:43:11,2026-03-07 18:43:32,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 18:43:20,2026-03-07 18:43:30,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 18:43:38,2026-03-07 18:43:58,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 18:43:56,2026-03-07 18:44:10,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 18:44:17,2026-03-07 18:44:22,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 18:44:37,2026-03-07 18:44:45,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 18:44:53,2026-03-07 18:45:09,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 18:45:05,2026-03-07 18:45:11,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 19:02:23,2026-03-07 19:09:59,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 19:05:40,2026-03-07 19:11:50,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 19:28:08,2026-03-07 19:33:10,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-07 19:38:12,2026-03-07 19:45:52,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 19:39:25,2026-03-07 19:44:14,FR01_PORTE,Chambre froide 1 - porte ouverte > 5 min,Moyenne,Froid
+2026-03-07 19:40:06,2026-03-07 19:52:03,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 19:41:47,2026-03-07 19:45:27,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 19:45:28,2026-03-07 19:49:24,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 19:45:42,2026-03-07 19:45:47,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 19:45:50,2026-03-07 19:46:01,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 19:46:03,2026-03-07 19:46:27,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 19:46:18,2026-03-07 19:46:33,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 19:46:27,2026-03-07 19:46:42,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 19:46:44,2026-03-07 19:47:01,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 19:46:57,2026-03-07 19:47:08,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 19:47:16,2026-03-07 19:47:26,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 19:47:32,2026-03-07 19:47:44,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 19:55:45,2026-03-07 20:01:04,CND_ST02_ARR,Conditionneuse 2 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 20:33:43,2026-03-07 20:48:04,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 20:34:53,2026-03-07 20:46:14,CND_ST01_ARR,Conditionneuse 1 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 20:36:47,2026-03-07 20:36:59,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 20:37:06,2026-03-07 20:37:13,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 20:37:22,2026-03-07 20:37:28,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 20:37:38,2026-03-07 20:37:47,AIR_PT01_L,Air comprimé - pression réseau basse,Moyenne,Utilités
+2026-03-07 20:37:52,2026-03-07 20:50:50,CND_ST04_ARR,Conditionneuse 4 - machine à l'arrêt,Basse,Conditionnement
+2026-03-07 20:56:39,2026-03-07 21:06:16,CND_ST04_DEF,Conditionneuse 4 - défaut film,Moyenne,Conditionnement
+2026-03-07 22:03:21,2026-03-07 22:03:39,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 22:03:41,2026-03-07 22:03:53,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 22:03:51,2026-03-07 22:04:12,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 22:04:01,2026-03-07 22:04:11,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 22:04:13,2026-03-07 22:04:35,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 22:04:25,2026-03-07 22:04:38,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-07 22:22:41,2026-03-07 22:23:16,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-07 22:22:46,2026-03-07 22:22:48,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-07 22:23:02,2026-03-07 22:23:05,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-07 22:23:23,2026-03-07 22:23:24,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-07 22:23:58,2026-03-07 22:26:53,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-07 22:25:15,2026-03-07 22:25:16,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-07 22:26:38,2026-03-07 22:27:56,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-08 01:21:47,2026-03-08 01:21:59,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 01:21:59,2026-03-08 01:22:03,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 01:22:20,2026-03-08 01:22:44,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 01:22:37,2026-03-08 01:22:52,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 01:22:50,2026-03-08 01:22:56,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 02:03:02,2026-03-08 02:03:19,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 02:03:19,2026-03-08 02:03:37,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 02:03:36,2026-03-08 02:03:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 02:03:49,2026-03-08 02:04:07,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 02:03:59,2026-03-08 02:04:18,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 02:04:19,2026-03-08 02:04:33,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 02:04:36,2026-03-08 02:04:48,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 02:04:50,2026-03-08 02:05:09,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 02:05:07,2026-03-08 02:05:30,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 02:52:48,2026-03-08 04:51:55,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-08 03:26:25,2026-03-08 03:26:45,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 03:26:36,2026-03-08 03:26:44,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 03:26:54,2026-03-08 03:27:12,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 03:27:14,2026-03-08 03:27:28,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 03:27:35,2026-03-08 03:27:55,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 03:27:53,2026-03-08 03:28:05,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 03:28:04,2026-03-08 03:28:11,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 05:14:01,2026-03-08 05:14:19,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 05:14:20,2026-03-08 05:14:33,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 05:14:41,2026-03-08 05:15:01,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 05:14:59,2026-03-08 05:15:15,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 08:53:54,2026-03-08 08:53:58,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-08 08:54:06,2026-03-08 08:56:20,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-08 08:55:23,2026-03-08 08:55:26,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-08 08:55:23,2026-03-08 08:56:17,NEP_FT01_L,NEP - débit retour bas,Basse,NEP
+2026-03-08 08:55:52,2026-03-08 08:55:54,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-08 08:56:55,2026-03-08 08:56:56,NEP_TT02_L,NEP - température retour basse,Basse,NEP
+2026-03-08 08:57:12,2026-03-08 08:58:37,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-08 08:57:33,2026-03-08 08:58:57,NEP_CT01_L,NEP - conductivité soude basse,Moyenne,NEP
+2026-03-08 10:52:05,2026-03-08 10:52:22,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 10:52:19,2026-03-08 10:52:25,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 10:52:36,2026-03-08 10:52:41,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 10:52:54,2026-03-08 10:53:16,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 10:53:14,2026-03-08 10:53:30,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 11:20:45,2026-03-08 11:21:07,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 11:20:57,2026-03-08 11:21:07,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 11:21:15,2026-03-08 11:21:29,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 12:08:16,2026-03-08 13:57:41,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-08 13:07:45,2026-03-08 13:37:22,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-08 13:48:24,2026-03-08 15:32:40,AIR_DP01_H,Air comprimé - filtre colmaté,Basse,Utilités
+2026-03-08 16:14:27,2026-03-08 16:21:19,EGL_TT01_H,Eau glacée - température départ haute,Moyenne,Utilités
+2026-03-08 17:08:24,2026-03-08 17:08:46,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 17:08:37,2026-03-08 17:08:49,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 17:08:49,2026-03-08 17:09:07,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 18:51:54,2026-03-08 18:52:14,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 18:52:14,2026-03-08 18:52:21,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 18:52:26,2026-03-08 18:52:44,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 18:52:37,2026-03-08 18:52:56,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 20:23:50,2026-03-08 20:24:06,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 20:24:05,2026-03-08 20:24:13,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 20:24:21,2026-03-08 20:24:41,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 20:24:34,2026-03-08 20:24:48,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 20:24:46,2026-03-08 20:25:03,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 22:29:22,2026-03-08 22:29:35,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 22:29:41,2026-03-08 22:29:57,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 22:29:52,2026-03-08 22:30:03,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 22:31:04,2026-03-08 22:31:15,SUP_COM_PLC05,Supervision - perte communication automate 5,Haute,Supervision
+2026-03-08 22:56:54,2026-03-08 22:57:09,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 22:57:07,2026-03-08 22:57:26,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
+2026-03-08 22:57:17,2026-03-08 22:57:28,FR02_TT01_H,Chambre froide 2 - température haute,Haute,Froid
